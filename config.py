@@ -1,0 +1,3 @@
+# API_TOKEN = "7306967474:AAHezQ7wqYDS4SVVTihnAIe_Pu4s0B70mgI"
+# token @AMTactivity_bot
+API_TOKEN = "7771027991:AAFbjUmo8JVgaHylOSNigd0siXOQySxoeTI"

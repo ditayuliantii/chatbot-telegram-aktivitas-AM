@@ -1,0 +1,34 @@
+[
+    {
+        "id": "eb12ffff-e3e8-4032-9703-657ab4e1dfa6",
+        "user_id": 1724996454,
+        "username": "sweetvocado20",
+        "activity_type": "Coaching dengan atasan",
+        "customer_name": "N/A",
+        "project_id": "N/A",
+        "start_date": "22-09-2026",
+        "start_time": "04:30",
+        "end_date": "22-09-2026",
+        "end_time": "14:25",
+        "notes": "gybubhb",
+        "kontak_pelanggan": "N/A",
+        "suara_pelanggan": "N/A",
+        "attachment": "uploads\\7d211da8-2322-4225-9bd0-40ad626cb6fc.jpg"
+    },
+    {
+        "id": "dcb1b0a5-502c-4757-a4d9-4242addb7e99",
+        "user_id": 1724996454,
+        "username": "sweetvocado20",
+        "activity_type": "Survey",
+        "customer_name": "titi",
+        "project_id": "123",
+        "start_date": "16-08-2026",
+        "start_time": "13:20",
+        "end_date": "22-05-2025",
+        "end_time": "13:25",
+        "notes": "ubhup",
+        "kontak_pelanggan": "kevin",
+        "suara_pelanggan": "N/A",
+        "attachment": "N/A"
+    }
+]
